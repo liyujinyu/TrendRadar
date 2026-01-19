@@ -1,4 +1,4 @@
-name: TrendRadar 热点推送
+name: Get Hot News
 
 on:
   schedule:
